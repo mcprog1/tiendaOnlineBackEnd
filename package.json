@@ -1,12 +1,16 @@
 {
   "dependencies": {
-    "express": "^4.18.2"
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.21"
   },
   "name": "tiendaonlinebackend",
   "version": "1.0.0",
   "description": "Tienda online backend",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
